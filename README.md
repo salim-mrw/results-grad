@@ -1,7 +1,7 @@
 # results-grad
 
 IP
-<br/>
+
 192.168.25.26 
 10.0.9.10 
 192.168.37.38 
@@ -57,7 +57,7 @@ IP
 WIFI Password
 
 Note: A sample of the passwords I found, some on real devices and others on fake devices
-<br/>
+
 18hzn3110
 20252025
 95706153
@@ -83,7 +83,7 @@ kofi1111
 
 
 MAC Address
-<br/>
+
 DC:62:79:53:0F:CE
 B0:19:21:69:56:88
 B0:4E:26:9C:7A:30
